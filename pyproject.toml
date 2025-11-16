@@ -1,0 +1,13 @@
+[project]
+name = "experiment-rag"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.11"
+dependencies = [
+    "dotenv>=0.9.9",
+    "numpy>=2.3.4",
+    "openai>=2.7.1",
+    "requests>=2.32.5",
+    "scikit-learn>=1.7.2",
+]
